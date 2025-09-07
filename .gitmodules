@@ -1,0 +1,6 @@
+[submodule "python"]
+	path = python
+	url = https://github.com/jaalcol/TFM.git
+[submodule "java"]
+	path = java
+	url = https://github.com/jaalcol/TFM_java.git
