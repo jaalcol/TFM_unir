@@ -21,7 +21,6 @@ The project combines distributed processing and machine learning to detect anoma
 
 - Apache Spark (Dataproc)
 - Apache Flink
-- Apache Airflow
 - Google Cloud Platform (Dataflow, Storage)
 - Docker (Debezium, PostgreSQL)
 - Kafka (streaming)
