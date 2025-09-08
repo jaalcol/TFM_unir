@@ -1,5 +1,8 @@
 # TFM_unir
 
+![Alt text](images/schema_1.png)
+
+
 Main repository integrating the Python and Java developments of the real-time anomaly detection Master's thesis. It contains two independent submodules:
 
 - [TFM_python](./TFM_python): Python development with Airflow, Dataflow, Dataproc, and Docker for data ingestion, processing, and model training.
